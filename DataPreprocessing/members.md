@@ -2,7 +2,7 @@
 
 ## Project Title: *Alzheimer's Disease and Healthy Aging Data Analysis.*  
 **Project Description:**  
-Analysis of the BRFSS Dataset.
+Analysis of the BRFSS Alzheimer's Disease and Healthy Aging Indicator Dataset.
 
 ### Mission:
 
@@ -18,7 +18,8 @@ Following are the objectives for the exercise:
 ### 2. Ayush Dongol
 ### 3. Binay Dhakal  
 ### 4. Hrishabh Mahaju
-
+---
+## Team Name : NEP G
 ---
 
 ## Link for dataset
